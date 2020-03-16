@@ -1,1 +1,1 @@
-# text-minig-emotion-mining-sentiment-mining
+# text-mining,emotion-mining,sentiment-mining
