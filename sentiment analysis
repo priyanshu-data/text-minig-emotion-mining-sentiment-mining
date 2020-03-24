@@ -1,2 +1,6 @@
 ##setting the path for the amazon review####
 setwd()
+###or you can also view the path######
+#getwd()->The command line used for seeing the directory path
+##Reading file in R
+
