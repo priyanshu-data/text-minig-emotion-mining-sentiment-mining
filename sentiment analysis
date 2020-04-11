@@ -1,3 +1,10 @@
 Sentiment analysis is something that deals with the emotions that are added to the algorithm.
 
 
+Firstly,we will extract the file or load the file to the Rstudio.
+Secondly,data partition i.e;train and test data.
+Then we will try to evaluate sentiment in that data.
+Analysis of the data i.e; sentiment score n so on.
+Accuracy of the train and test data.
+Finally,we will complete the sentiment analysis.
+
